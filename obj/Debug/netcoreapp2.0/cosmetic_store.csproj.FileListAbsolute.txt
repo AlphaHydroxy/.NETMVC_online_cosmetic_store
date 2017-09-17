@@ -1,0 +1,11 @@
+c:\users\jpw_4\desktop\cosmetic_store\cosmetic_store\cosmetic_store\bin\Debug\netcoreapp2.0\cosmetic_store.deps.json
+c:\users\jpw_4\desktop\cosmetic_store\cosmetic_store\cosmetic_store\bin\Debug\netcoreapp2.0\cosmetic_store.runtimeconfig.json
+c:\users\jpw_4\desktop\cosmetic_store\cosmetic_store\cosmetic_store\bin\Debug\netcoreapp2.0\cosmetic_store.runtimeconfig.dev.json
+c:\users\jpw_4\desktop\cosmetic_store\cosmetic_store\cosmetic_store\bin\Debug\netcoreapp2.0\cosmetic_store.dll
+c:\users\jpw_4\desktop\cosmetic_store\cosmetic_store\cosmetic_store\bin\Debug\netcoreapp2.0\cosmetic_store.pdb
+c:\users\jpw_4\desktop\cosmetic_store\cosmetic_store\cosmetic_store\obj\Debug\netcoreapp2.0\cosmetic_store.csprojResolveAssemblyReference.cache
+c:\users\jpw_4\desktop\cosmetic_store\cosmetic_store\cosmetic_store\obj\Debug\netcoreapp2.0\cosmetic_store.csproj.CoreCompileInputs.cache
+c:\users\jpw_4\desktop\cosmetic_store\cosmetic_store\cosmetic_store\obj\Debug\netcoreapp2.0\cosmetic_store.AssemblyInfoInputs.cache
+c:\users\jpw_4\desktop\cosmetic_store\cosmetic_store\cosmetic_store\obj\Debug\netcoreapp2.0\cosmetic_store.AssemblyInfo.cs
+c:\users\jpw_4\desktop\cosmetic_store\cosmetic_store\cosmetic_store\obj\Debug\netcoreapp2.0\cosmetic_store.dll
+c:\users\jpw_4\desktop\cosmetic_store\cosmetic_store\cosmetic_store\obj\Debug\netcoreapp2.0\cosmetic_store.pdb

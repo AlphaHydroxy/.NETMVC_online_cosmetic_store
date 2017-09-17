@@ -1,0 +1,32 @@
+﻿@model List<cosmetic_store.Services.Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="products-container">
+      @foreach (var product in @Model)
+      {
+        <div class="product-item">
+            <h3>@product.Brand.ToUpper()</h3>
+            <h4>@product.Name</h4>
+            <a href="#"><img src="@product.Image_Link" /></a>
+            <p>£@product.Price</p>
+            <p>Rating: @product.Rating</p>
+            <button>Add to cart</button>
+
+            <div class="colours-container">
+                @foreach (var colour in @product.Product_Colors)
+                {
+
+                    <div class="swatches" style="height: 20px;
+                                                 width: 20px;
+                                                 background-color: @colour.Hex_Value;">
+                    </div>
+
+                }
+            </div>
+            <hr />
+        </div>
+      }
+</div>

@@ -1,0 +1,14 @@
+﻿[
+  {
+    "outputFile": "wwwroot/css/index.css",
+    "inputFile": "wwwroot/css/index.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/footer.css",
+    "inputFile": "wwwroot/css/footer.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/products.css",
+    "inputFile": "wwwroot/css/products.scss"
+  }
+]
